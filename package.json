@@ -1,0 +1,45 @@
+{
+  "name": "@coderbyheart/coderbyheart",
+  "version": "0.0.0-development",
+  "description": "About me",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderbyheart/coderbyheart.git"
+  },
+  "keywords": [
+    "Homepage",
+    "Portfolio",
+    "Markus Tacker"
+  ],
+  "author": "Markus Tacker | https://coderbyheart.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/coderbyheart/coderbyheart/issues"
+  },
+  "homepage": "https://github.com/coderbyheart/coderbyheart#readme",
+  "devDependencies": {
+    "@bifravst/code-style": "^8.0.127",
+    "@commitlint/cli": "11.0.0",
+    "@commitlint/config-angular": "11.0.0",
+    "husky": "^4.3.0",
+    "prettier": "^2.1.2"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{md,json,yaml,yml}": [
+      "prettier --write"
+    ],
+    "*.{ts,tsx}": [
+      "prettier --write",
+      "eslint --ext .js,.ts"
+    ]
+  }
+}
