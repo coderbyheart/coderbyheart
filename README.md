@@ -19,8 +19,6 @@ I especially enjoys the diverse and deep discussion of the
 Don't hesitate to contact me, if you need advice,
 [I'm happy to help](https://twitter.com/coderbyheart/status/940636875794067456).
 
----
-
 ## 👨‍💻 Volunteering
 
 I am a code contributor at [Distribute Aid](https://distributeaid.org) where I
@@ -34,8 +32,6 @@ Here are some posts about my work there:
 
 - [Volunteer Impact: Distribute Aid Refugees Care](https://www.designtocombatcovid19.com/blog/distribute-aid)
 - [COVID-19 guide for Aid Workers built with GatsbyJS from a Google Drive folder](https://coderbyheart.com/covid-19-guide-for-aid-workers-built-with-gatsbyjs-from-a-google-drive/)
-
----
 
 ## 🤘 Communities
 
@@ -143,8 +139,6 @@ standard for usergroups.
 
 </p>
 </details>
-
----
 
 ## 💬 Talks
 
