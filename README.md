@@ -9,6 +9,12 @@ consultant, coach, mentor, and founder to build cloud-based solutions for the
 Internet of Things using JavaScript at
 [Nordic Semiconductor](https://www.nordicsemi.com/).
 
+[![Stokkøya](https://live.staticflickr.com/65535/50180400301_6602536e33_c_d.jpg)](https://www.flickr.com/photos/tacker)
+
+> 📷 I live in Trondheim, Norway 🇳🇴, and share photos about my camping
+> adventures here on [flickr](https://www.flickr.com/photos/tacker) and
+> [Instagram](https://instagram.com/coderbyheart)
+
 My professional career has been greatly influenced by taking an active role in
 communities, whether as a participant, contributor, community initiator, or
 speaker.
