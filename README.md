@@ -24,6 +24,9 @@ Don't hesitate to contact me, if you need advice,
 > I am available for speaking engagements! Just contact me if you feel I can
 > contribute to your event or conference.
 
+<details><summary>Show the list of my talks</summary>
+<p>
+
 ### 2019—2020
 
 ##### It does not run on my machine: Integration testing a cloud-native application
@@ -364,3 +367,6 @@ How to build RESTful APIs using the Python-based Django framework.
 [Slides](https://docs.google.com/presentation/d/1AK_sn88E1hIX0FQmgzjd8XFBR7i32b1JgsPQt1b1B8w/edit)
 
 - [Python UserGroup RheinMain](http://pyugrm.de/) 📅 18. July 2012 🇩🇪 Frankfurt
+
+</p>
+</details>
