@@ -108,6 +108,11 @@ events until 2013. It is still active until today.
 
 ### Events
 
+**[TechWomen Norway](https://techwomen.no/ada-lovelace-day-2019.html)**
+
+In 2019 I helped to organize the _Ada Lovelace mini-conference_ and the
+presentation of the 2019 Tech Role Models, which took place in Oslo.
+
 **[RheinMain Tech Cabal](https://github.com/coderbyheart/blog/blob/gh-pages/rheinmain-tech-cabal.md)**
 
 In 2017 I organized and hosted an invite-only event for tech people that aims to
