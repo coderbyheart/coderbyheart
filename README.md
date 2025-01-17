@@ -24,7 +24,7 @@ My professional career has been greatly influenced by taking an active role in
 communities, whether as a participant, contributor, community initiator, or
 speaker.
 
-I especially enjoys the diverse and deep discussion of the
+I especially enjoy the diverse and deep discussion of the
 [Software Craft Community](https://softwerkskammer.org/).
 
 Don't hesitate to contact me, if you need advice,
