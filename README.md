@@ -16,7 +16,7 @@ daily ramblings about the challenges of writing software.
 
 [![Stokkøya](https://live.staticflickr.com/65535/50180400301_5da8837da3_k_d.jpg)](https://www.flickr.com/photos/tacker)
 
-> I live in Trondheim, Norway 🇳🇴 and share photos about my camping adventures
+> I live in Oslo, Norway 🇳🇴 and share photos about my camping adventures
 > here on [https://photos.coderbyheart.com/](https://photos.coderbyheart.com/) and
 > [Instagram](https://instagram.com/coderbyheart).
 
